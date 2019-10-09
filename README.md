@@ -1,0 +1,2 @@
+# aikomagene
+Atasanayi istasyon komagene
